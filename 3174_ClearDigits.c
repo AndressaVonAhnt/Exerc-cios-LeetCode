@@ -1,5 +1,5 @@
 /*
-PROBLEM: Clear Digits
+Clear Digits (3174)
 You are given a string s.
 Your task is to remove all digits by doing this operation repeatedly:
 Delete the first digit and the closest non-digit character to its left.

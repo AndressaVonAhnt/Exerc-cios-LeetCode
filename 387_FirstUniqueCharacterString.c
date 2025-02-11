@@ -1,3 +1,8 @@
+/*
+    First Unique Character in a String (387)
+    Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>

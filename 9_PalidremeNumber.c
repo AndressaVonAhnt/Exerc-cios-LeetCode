@@ -1,7 +1,7 @@
 /*
-    Este código verifica se o número é um palíndromo, ou seja, se o número é igual de trás pra frente.
-
-    Autora: Andressa Von Ahnt
+    Palindrome Number(9)
+    Given an integer x, return true if x is a
+    palindrome, and false otherwise.
 */
 
 #include <stdio.h>

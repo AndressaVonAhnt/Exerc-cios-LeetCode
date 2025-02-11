@@ -1,8 +1,6 @@
 /*
-    Dado um array ordenado de inteiros distintos e um valor alvo, retorna o índice se o alvo for encontrado. 
-    Se não, retorna o índice onde ele estaria se fosse inserido em ordem.
-
-    Autora: Andressa Von Ahnt
+    Search Insert Position (35)
+    Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 */
 
 #include <stdio.h>
